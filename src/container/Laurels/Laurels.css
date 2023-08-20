@@ -1,8 +1,12 @@
+/* .app__laurels{
+    padding: 0 5rem;
+} */
+
 .app__laurels_awards{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap;    
 
     margin-top: 3rem;
 }
@@ -20,6 +24,8 @@
 .app__laurels_awards-card img{
     width: 50px;
     height: 50px;
+
+    
 }
 
 .app__laurels_awards-card_content{
